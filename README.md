@@ -1,5 +1,5 @@
-Demonstrate REST API in Python in FAST API  
-
+# Showcased how to create RESTful services in Python with FastAPI  
+## Applied Technologies: Python, REST API, FastAPI, JSON, HTML
 Start: uvicorn main:app --reload
 
 ![alt text](./pic0.png)
